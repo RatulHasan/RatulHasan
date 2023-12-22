@@ -31,6 +31,9 @@ if __name__ == '__main__':
 
 ```
 <div align="center">
-  <img  src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake.svg"
+  <img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only"
+       alt="snake" /></a>
+  
+  <img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
        alt="snake" /></a>
 </div>
