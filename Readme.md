@@ -18,8 +18,9 @@ class Bio(SoftwareEngineer):
 class Skills(SoftwareEngineer):
     def __init__(self):
         self.languages = ['PHP', 'JavaScript', 'TypeScript', 'Python']
-        self.databases = ['MySQL', 'MongoDB', 'PostgreSQL']
-        self.frameworks = ['Laravel', 'WordPress', 'React', 'Vue', 'Flask', 'FastAPI']
+        self.databases = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLite', 'Redis']
+        self.frameworks = ['Laravel', 'WordPress', 'React', 'Vue', 'Svelte', 'Plasmo', 'Flask', 'FastAPI']
+        self.tools = ['Git', 'Docker', 'GitHub Actions', 'Linux', 'Nginx', 'Apache', 'Firebase', 'OpenAI']
 
 class Projects(SoftwareEngineer):
     def __init__(self):
