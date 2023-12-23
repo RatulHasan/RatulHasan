@@ -1,6 +1,6 @@
 <img src="https://github.com/RatulHasan/RatulHasan/assets/14246834/49c526be-dc2c-4d6c-befb-47cb1bd1e375">
 <p align="right">
-  <img width="30%" align="right" alt="Myself" src="https://github.com/RatulHasan/RatulHasan/assets/14246834/d20303b9-8b8b-44ec-b048-2a68f8aceb3f">
+  <img width="20%" align="right" alt="Myself" src="https://github.com/RatulHasan/RatulHasan/assets/14246834/d20303b9-8b8b-44ec-b048-2a68f8aceb3f">
 </p>
 <p align="center">
   <a href="https://www.ratulhasan.com"><img src="https://readme-typing-svg.demolab.com?font=Aclonica&size=24&duration=2506&pause=50&color=1E8ADFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=200&lines=Assalamu+O+Alaikum+Warahmatullah+%E2%9D%A4%EF%B8%8F;Full-stack+web+developer+from+Bangladesh.;Learner+and+Happy+to+learn.;What+I+believe+is-;Whatever+it+takes%2C+spread+happiness+%F0%9F%98%8A" alt="Typing SVG" /></a>
