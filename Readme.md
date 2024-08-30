@@ -41,22 +41,6 @@ if __name__ == '__main__':
 
 
 ```
-<div align="center">
-  <img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only"
-       alt="snake" /></a>
-  <img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only"
-       alt="snake" /></a>
-</div>
-<br/>
-<h3 align="left"> 🚀 GitHub Dashboard  </h3>
-<p>
-  <a href="https://www.ratulhasan.com" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=14246834&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @RatulHasan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=14246834&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-</p>
 <h3 align="left"> 🔧 Technologies & Tools  </h3>
 <table><tr><td valign="top" width="33%">
 
@@ -122,7 +106,18 @@ if __name__ == '__main__':
 </div>
 
 </td></tr></table>  
+<img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" /></a>
+<img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" /></a>
 <br/>
+<h3 align="left"> 🚀 GitHub Dashboard  </h3>
+<p>
+  <a href="https://www.ratulhasan.com" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=14246834&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @RatulHasan" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=14246834&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+</p>
 <h3 align="left"> 🏆 GitHub Trophies  </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ratulhasan&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
@@ -142,5 +137,4 @@ You can reach out to me through the following platforms:
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
 </div>
-
 
