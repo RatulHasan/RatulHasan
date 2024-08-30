@@ -1,7 +1,9 @@
-<img src="https://github.com/RatulHasan/RatulHasan/assets/14246834/49c526be-dc2c-4d6c-befb-47cb1bd1e375">
+<!--<img src="https://github.com/RatulHasan/RatulHasan/assets/14246834/49c526be-dc2c-4d6c-befb-47cb1bd1e375">-->
 <p align="center">
   <a href="https://www.ratulhasan.com"><img src="https://readme-typing-svg.demolab.com?font=Aclonica&size=24&duration=2506&pause=50&color=1E8ADFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Assalamu+O+Alaikum+Warahmatullah+%E2%9D%A4%EF%B8%8F;Whatever+it+takes%2C+spread+happiness+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
+
+![new technology](https://github.com/user-attachments/assets/a024cc38-6dca-4509-9665-10fc56821237)
 
 ```python
 
@@ -124,4 +126,21 @@ if __name__ == '__main__':
 <h3 align="left"> 🏆 GitHub Trophies  </h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ratulhasan&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Contact Me
+
+You can reach out to me through the following platforms:
+
+<div align="center">
+    <a href="mailto:tanjilhasanratul@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://linkedin.com/in/ratulhasan/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://github.com/ratulhasasn" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+</div>
+
 
