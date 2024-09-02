@@ -53,6 +53,7 @@ if __name__ == '__main__':
   <a href="https://svelte.dev/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="Svelte" height="50" /></a>  
   <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="50" /></a>  
   <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" height="50" /></a>  
+  <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -66,7 +67,8 @@ if __name__ == '__main__':
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="Fast API" height="50" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50" /></a>
-  <a href="https://codeigniter.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" height="50" /></a>  
+  <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/awslambda/#7D4CD6" alt="AWS Lambda" height="50" /></a>  
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonapigateway/#7D4CD6" alt="Amazon API Gateway" height="50" /></a> 
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="50" /></a>  
 </div>
 
@@ -81,6 +83,7 @@ if __name__ == '__main__':
   <a href="https://sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" /></a>  
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /></a>
   <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" height="50" /></a>
+  <a href="https://aws.amazon.com/rds/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonrds" alt="RDS" height="50" /></a>
   <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="50" /></a>
 </div>
 
@@ -106,6 +109,7 @@ if __name__ == '__main__':
   <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" height="50" /></a>
   <a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" height="50" /></a>
   <a href="https://www.npmjs.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" height="50" /></a>
+  <a href="https://pnpm.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" alt="pNPM" height="50" /></a>
   <a href="https://getcomposer.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" alt="Composer" height="50" /></a>
 </div>
 
@@ -114,6 +118,7 @@ if __name__ == '__main__':
 ### DevOps  
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonec2/#7952B3" alt="EC2" height="50" /></a>
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="50" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
