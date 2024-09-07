@@ -67,8 +67,8 @@ if __name__ == '__main__':
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="Fast API" height="50" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50" /></a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/awslambda/#7D4CD6" alt="AWS Lambda" height="50" /></a>  
-  <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonapigateway/#7D4CD6" alt="Amazon API Gateway" height="50" /></a> 
+  <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" height="50" /></a>  
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonapigateway" alt="Amazon API Gateway" height="50" /></a> 
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="50" /></a>  
 </div>
 
