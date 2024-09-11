@@ -118,7 +118,7 @@ if __name__ == '__main__':
 ### DevOps  
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonec2/#7952B3" alt="EC2" height="50" /></a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonec2" alt="EC2" height="50" /></a>
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="50" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
