@@ -3,8 +3,7 @@
   <a href="https://www.ratulhasan.com"><img src="https://readme-typing-svg.demolab.com?font=Aclonica&size=24&duration=2506&pause=50&color=1E8ADFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Assalamu+O+Alaikum+Warahmatullah+%E2%9D%A4%EF%B8%8F;Whatever+it+takes%2C+spread+happiness+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
 
-![new technology hd](https://github.com/user-attachments/assets/2c361cba-5abc-4d5c-aa65-84334719ee8b)
-
+[//]: # (![new technology hd]&#40;https://github.com/user-attachments/assets/2c361cba-5abc-4d5c-aa65-84334719ee8b&#41;)
 
 ```python
 
@@ -42,10 +41,23 @@ if __name__ == '__main__':
 
 
 ```
+
+<h3>🏆 Certifications</h3>
+<table>
+  <tr>
+    <td>
+        <a href="https://www.credly.com/badges/e2a93551-6153-4eca-af1c-06b2035ec3fe/public_url" target="_blank">
+            <img src="https://github.com/user-attachments/assets/9892bb28-5a68-4393-b5a0-6b9ab9ed52bb" />
+            <h4>AWS Certified Solutions Architect – Associate</h4>
+        </a>
+    </td>
+  </tr>
+</table>
 <h3 align="left"> 🔧 Technologies & Tools  </h3>
 <table><tr><td valign="top" width="33%">
 
-### Frontend  
+### Frontend
+
 <div align="center">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" /></a>
@@ -59,7 +71,8 @@ if __name__ == '__main__':
 
 </td><td valign="top" width="33%">
 
-### Backend  
+### Backend
+
 <div align="center">  
   <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50" /></a>  
   <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" height="50" /></a>  
@@ -76,7 +89,8 @@ if __name__ == '__main__':
 
 </td><td valign="top" width="33%">
 
-### Database  
+### Database
+
 <div align="center">  
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" /></a>  
   <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" height="50" /></a>  
@@ -92,7 +106,8 @@ if __name__ == '__main__':
 
 </td></tr><tr><td valign="top" width="33%">
 
-### Testing  
+### Testing
+
 <div align="center">  
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" height="50" /></a>  
 <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" height="50" /></a>  
@@ -100,7 +115,8 @@ if __name__ == '__main__':
 
 </td><td valign="top" width="33%">
 
-### Tools  
+### Tools
+
 <div align="center">    
   <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>  
   <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
@@ -118,7 +134,8 @@ if __name__ == '__main__':
 
 </td><td valign="top" width="33%">
 
-### DevOps  
+### DevOps
+
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
   <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonec2" alt="EC2" height="50" /></a>
@@ -168,7 +185,3 @@ You can reach out to me through the following platforms:
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
     </a>
 </div>
-
-
-
-
