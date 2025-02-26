@@ -41,6 +41,7 @@ if __name__ == '__main__':
 
 
 ```
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-1DBF73?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1tQYbE28IGUmrG8pLrQYmf6BLn1rxtT5h/view?usp=sharing)
 
 <h3>🏆 Certifications</h3>
 <table>
