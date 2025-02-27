@@ -3,55 +3,62 @@
   <a href="https://www.ratulhasan.com"><img src="https://readme-typing-svg.demolab.com?font=Aclonica&size=24&duration=2506&pause=50&color=1E8ADFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Assalamu+O+Alaikum+Warahmatullah+%E2%9D%A4%EF%B8%8F;Whatever+it+takes%2C+spread+happiness+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
 
-[//]: # (![new technology hd]&#40;https://github.com/user-attachments/assets/2c361cba-5abc-4d5c-aa65-84334719ee8b&#41;)
+### Hi there, I'm Ratul Hasan – Senior Software Engineer | AWS Certified Solutions Architect – Associate | AI Enthusiast
 
-```python
+Results-driven software engineer with 8+ years of experience in designing and developing scalable, maintainable applications. Specialized in AI automation, Shopify app development, WordPress plugins, CI/CD automation, and e-commerce solutions. Passionate about building high-performance applications that drive business success.
 
-from ratulHasan import SoftwareEngineer
+---
 
-class Bio(SoftwareEngineer):
-    def __init__(self):
-        self.name = 'M.M. Tanjil Hasan Ratul'
-        self.title = 'Software Engineer'
-        self.company = 'weDevs'
-        self.location = 'Dhaka, Bangladesh'
-        self.website = 'https://ratulhasan.com'
+## 🔧 Technical Skills
 
-class Skills(SoftwareEngineer):
-    def __init__(self):
-        self.languages = ['PHP', 'JavaScript', 'TypeScript', 'Python']
-        self.databases = ['MySQL', 'MongoDB', 'PostgreSQL', 'SQLite', 'Redis']
-        self.frameworks = ['Laravel', 'WordPress', 'React', 'Vue', 'Svelte', 'Plasmo', 'Flask', 'FastAPI']
-        self.tools = ['Git', 'Docker', 'GitHub Actions', 'Linux', 'Nginx', 'Apache', 'Firebase', 'OpenAI']
+- **Backend:** Laravel (5.x - 11.x), PHP (OOP, Design Patterns), Python (Flask, FastAPI), Node.js (Express.js), Microservices, API Development, Asynchronous Jobs, Redis, Supervisor
+- **Frontend:** React.js, Remix.js, Vue.js, Svelte, TypeScript, Tailwind CSS, Ant Design
+- **Cloud & DevOps:** AWS (Lambda, S3, EC2), Digital Ocean, Docker, CI/CD (GitHub Actions)
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis, Firebase, Vector Databases (Pinecone, PgVector)
+- **Other:** WebSockets, System Design, Performance Optimization, API Security, AI Integrations
 
-class Projects(SoftwareEngineer):
-    def __init__(self):
-        self.crc = 'https://wordpress.org/plugins/custom-role-creator/'
-        self.my_github = 'https://wordpress.org/plugins/my-github'
-        self.dokan = 'https://dokan.co/wordpress/'
-        self.wperp = 'https://wperp.com/'
-        self.wcct = 'https://wedevs.com/woocommerce-conversion-tracking/'
-        self.weDocsAI = 'https://wedocs.co/ai-chatbot/'
-        self.weMail = 'https://getwemail.io/'
+---
 
-if __name__ == '__main__':
-    Bio()
-    Skills()
-    Projects()
+## 🏆 Notable Projects
+
+### 🚀 [weMail](https://getwemail.io/)
+An email marketing platform for WordPress users.
+- Tech: Laravel, Node.js, Vue.js, MySQL, Redis, GCP, Docker, WordPress
+- Features: Drag-and-drop email builder, campaign management, analytics
+
+### 🏬 [Dokan](https://dokan.co/wordpress/)
+A multi-vendor WooCommerce solution.
+- Tech: PHP, WordPress Plugin Development
+- Features: Min-Max Product Restrictions, Request a Quote, Bulk Vendor Product Edit
+
+### 📚 [weDocs AI](https://wedocs.co/ai-chatbot/)
+AI-powered knowledge base and documentation platform.
+- Tech: Python (Flask), PgVector, OpenAI, PHP, WordPress
+- Features: AI-powered chat, contextual search, automated documentation management
+
+### 📊 [WooCommerce Conversion Tracking](https://wedevs.com/woocommerce-conversion-tracking/)
+Advanced conversion tracking plugin for WooCommerce stores.
+- Tech: PHP, WordPress
+
+### ⭐️ [Trust Pulse](https://trustpulse.xyz/)
+A product review app for the Shopify platform.
+- Tech Stack: Remix, Laravel, Node.js, MySQL, Redis, Prisma, Shopify
+- Features: Collects customer reviews and generates social proof to boost your store's sales.
+
+---
 
 
-```
-
-<h3>🏆 Certifications</h3>
 <table>
-  <tr>
-    <td>
-        <a href="https://www.credly.com/badges/e2a93551-6153-4eca-af1c-06b2035ec3fe/public_url" target="_blank">
-            <img src="https://github.com/user-attachments/assets/9892bb28-5a68-4393-b5a0-6b9ab9ed52bb" />
-            <h4>AWS Certified Solutions Architect – Associate</h4>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://www.credly.com/badges/e2a93551-6153-4eca-af1c-06b2035ec3fe/public_url" rel="nofollow" target="_blank">
+            <img src="https://github.com/user-attachments/assets/9892bb28-5a68-4393-b5a0-6b9ab9ed52bb" style="max-width: 100%;">
         </a>
-    </td>
-  </tr>
+        <h4 class="heading-element">AWS Certified Solutions Architect – Associate</h4>
+      </td>
+    </tr>
+  </tbody>
 </table>
 <h3 align="left"> 🔧 Technologies & Tools  </h3>
 <table><tr><td valign="top" width="33%">
@@ -110,7 +117,8 @@ if __name__ == '__main__':
 
 <div align="center">  
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" height="50" /></a>  
-<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" height="50" /></a>  
+<a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" height="50" /></a>
+  <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
@@ -145,9 +153,9 @@ if __name__ == '__main__':
 </div>
 
 </td></tr></table>  
-<img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" /></a>
+<!-- <img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake" /></a>
 <img src="https://github.com/RatulHasan/RatulHasan/blob/snake/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake" /></a>
-<br/>
+<br/> -->
 <h3 align="left"> 🚀 GitHub Dashboard  </h3>
 <p>
   <a href="https://www.ratulhasan.com" target="_blank" style="display: block" align="center">
