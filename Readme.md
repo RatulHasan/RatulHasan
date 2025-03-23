@@ -3,7 +3,7 @@
   <a href="https://www.ratulhasan.com"><img src="https://readme-typing-svg.demolab.com?font=Aclonica&size=24&duration=2506&pause=50&color=1E8ADFFF&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=650&height=100&lines=Assalamu+O+Alaikum+Warahmatullah+%E2%9D%A4%EF%B8%8F;Whatever+it+takes%2C+spread+happiness+%F0%9F%98%8A" alt="Typing SVG" /></a>
 </p>
 
-### Hi there, I'm Ratul Hasan – Senior Software Engineer | AWS Certified Solutions Architect – Associate | AI Enthusiast
+### Hi there, I'm Ratul Hasan – Software Engineer | AWS Certified Solutions Architect – Associate | AI Enthusiast
 
 Results-driven software engineer with 8+ years of experience in designing and developing scalable, maintainable applications. Specialized in AI automation, Shopify app development, WordPress plugins, CI/CD automation, and e-commerce solutions. Passionate about building high-performance applications that drive business success.
 
