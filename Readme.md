@@ -40,7 +40,7 @@ AI-powered knowledge base and documentation platform.
 Advanced conversion tracking plugin for WooCommerce stores.
 - Tech: PHP, WordPress
 
-### ⭐️ [Trust revamp](https://trustrevamp.com)
+### ⭐️ [Trust revamp](https://trustrevamp.com/)
 A product review app for the Shopify platform.
 - Tech Stack: Remix, Laravel, Node.js, MySQL, Redis, Prisma, Shopify
 - Features: Collects customer reviews and generates social proof to boost your store's sales.
@@ -89,8 +89,8 @@ A product review app for the Shopify platform.
   <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
   <a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="Fast API" height="50" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50" /></a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" height="50" /></a>  
-  <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonapigateway" alt="Amazon API Gateway" height="50" /></a> 
+  <a href="https://aws.amazon.com/lambda/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/be0fc37e-b39c-4959-9b37-34e92adc94a3" alt="AWS Lambda" height="50" /></a>  
+  <a href="https://aws.amazon.com/api-gateway/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/aaebde30-5673-442f-a2b5-0f268691f171" alt="Amazon API Gateway" height="50" /></a> 
   <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" height="50" /></a>  
 </div>
 
@@ -107,7 +107,8 @@ A product review app for the Shopify platform.
   <a href="https://sqlite.org/index.html" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" /></a>  
   <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="50" /></a>
   <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" alt="DynamoDB" height="50" /></a>
-  <a href="https://aws.amazon.com/rds/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonrds" alt="RDS" height="50" /></a>
+  <a href="https://aws.amazon.com/rds/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/fd53f7fa-ad24-4342-83da-facb4beb23a9" alt="RDS" height="50" /></a>
+
   <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" height="50" /></a>
 </div>
 
@@ -146,7 +147,7 @@ A product review app for the Shopify platform.
 
 <div align="center">  
   <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" src="https://cdn.simpleicons.org/amazonec2" alt="EC2" height="50" /></a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/9a4d8e5e-af1b-4d0d-8cba-7d011bf9714a" alt="EC2" height="50" /></a>
   <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>
   <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="50" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
