@@ -64,10 +64,10 @@ A product review app for the Shopify platform.
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
 
-<div style="flex: 1; min-width: 300px;">
+<div style="display: flex; flex: 1; min-width: 300px;">
 
 ### Frontend
-<div align="center">  
+<div>  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50" /></a>
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="50" /></a>
 <a href="https://remix.run/" target="_blank"><img style="margin: 15px" src="https://cdn.simpleicons.org/remix" alt="Remix" height="50" /></a>
@@ -83,7 +83,7 @@ A product review app for the Shopify platform.
 <div style="flex: 1; min-width: 300px;">
 
 ### Backend
-<div align="center">  
+<div>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="Laravel" height="50" /></a>  
 <a href="https://wordpress.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="WordPress" height="50" /></a>
@@ -102,7 +102,7 @@ A product review app for the Shopify platform.
 <div style="flex: 1; min-width: 300px;">
 
 ### Database
-<div align="center">  
+<div>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="50" /></a>  
 <a href="https://mariadb.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="50" /></a>  
@@ -124,7 +124,7 @@ A product review app for the Shopify platform.
 <div style="flex: 1; min-width: 300px;">
 
 ### Testing
-<div align="center">  
+<div>  
 <a href="https://www.cypress.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" height="50" /></a>  
 <a href="https://playwright.dev/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" height="50" /></a>
 <a href="https://jestjs.io/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="Jest" height="50" /></a> 
@@ -135,7 +135,7 @@ A product review app for the Shopify platform.
 <div style="flex: 1; min-width: 300px;">
 
 ### Tools
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start;">    
+<div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-start;">    
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="GitLab" height="50" /></a>  
@@ -155,7 +155,7 @@ A product review app for the Shopify platform.
 <div style="flex: 1; min-width: 300px;">
 
 ### DevOps
-<div align="center">  
+<div>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>
 <a href="https://aws.amazon.com/ec2/" target="_blank"><img style="margin: 10px" src="https://github.com/user-attachments/assets/9a4d8e5e-af1b-4d0d-8cba-7d011bf9714a" alt="EC2" height="50" /></a>
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" height="50" /></a>
