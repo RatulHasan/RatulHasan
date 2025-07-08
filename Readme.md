@@ -40,7 +40,7 @@ AI-powered knowledge base and documentation platform.
 Advanced conversion tracking plugin for WooCommerce stores.
 - Tech: PHP, WordPress
 
-### ⭐️ [Trust Pulse](https://trustpulse.xyz/)
+### ⭐️ [Trust revamp](https://trustrevamp.com)
 A product review app for the Shopify platform.
 - Tech Stack: Remix, Laravel, Node.js, MySQL, Redis, Prisma, Shopify
 - Features: Collects customer reviews and generates social proof to boost your store's sales.
