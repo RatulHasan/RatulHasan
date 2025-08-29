@@ -21,12 +21,22 @@ Results-driven software engineer with 8+ years of experience in designing and de
 
 ## 🏆 Notable Projects
 
-### 🚀 [weMail](https://getwemail.io/)
+### ⭐️ [Trust revamp](https://apps.shopify.com/trust-revamp)
+A product review app for the Shopify platform.
+- Tech Stack: Remix, Laravel, Node.js, MySQL, Redis, Prisma, Shopify
+- Features: Collects customer reviews and generates social proof to boost your store's sales.
+
+### 🛡️ [Store Warden‑ Announcement Bar](https://apps.shopify.com/store-warden)
+A product review app for the Shopify platform.
+- Tech Stack: Remix, Tailwind, Node.js, MySQL, Redis, Prisma, Shopify
+- Customizable Timer and Announcement Bar — Create urgency that encourages engagement and conversions.
+
+### 📧 [weMail](https://getwemail.io/)
 An email marketing platform for WordPress users.
 - Tech: Laravel, Node.js, Vue.js, MySQL, Redis, GCP, Docker, WordPress
 - Features: Drag-and-drop email builder, campaign management, analytics
 
-### 🏬 [Dokan](https://dokan.co/wordpress/)
+### 🛍️ [Dokan](https://dokan.co/wordpress/)
 A multi-vendor WooCommerce solution.
 - Tech: PHP, WordPress Plugin Development
 - Features: Min-Max Product Restrictions, Request a Quote, Bulk Vendor Product Edit
@@ -39,11 +49,6 @@ AI-powered knowledge base and documentation platform.
 ### 📊 [WooCommerce Conversion Tracking](https://wedevs.com/woocommerce-conversion-tracking/)
 Advanced conversion tracking plugin for WooCommerce stores.
 - Tech: PHP, WordPress
-
-### ⭐️ [Trust revamp](https://trustrevamp.com/)
-A product review app for the Shopify platform.
-- Tech Stack: Remix, Laravel, Node.js, MySQL, Redis, Prisma, Shopify
-- Features: Collects customer reviews and generates social proof to boost your store's sales.
 
 ---
 
