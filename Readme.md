@@ -21,6 +21,12 @@ Results-driven software engineer with 8+ years of experience in designing and de
 
 ## 🏆 Notable Projects
 
+### 🕌 [Noor Tab](https://chromewebstore.google.com/detail/noortab-islamic-new-tab/llbeejfclaogcadbfohbgdbgfoffpjpo)
+**NoorTab** transforms every new browser tab into a tranquil Islamic companion - delivering accurate prayer times, Adhan reminders, daily Quranic verses, Hadith, spiritual tools like **How to Pray Salah**, a comprehensive **Dua Library**, and much more, all wrapped in a beautifully designed, distraction-free experience. [See for more details](https://github.com/RatulHasan/noor-tab)
+
+### 📸 [SnapFlow Studio](https://github.com/RatulHasan/SnapFlowStudio)
+**SnapFlow Studio** is a professional, high-fidelity browser extension designed for designers, developers, and product managers who need pixel-perfect screenshot mockups, rapid annotations, and beautiful ambient presentations in seconds. [See for more details](https://github.com/RatulHasan/SnapFlowStudio)
+
 ### ⭐️ [Trust revamp](https://apps.shopify.com/trust-revamp)
 A product review app for the Shopify platform.
 - Tech Stack: Remix, Laravel, Node.js, MySQL, Redis, Prisma, Shopify
