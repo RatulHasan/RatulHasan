@@ -19,6 +19,14 @@ Results-driven software engineer with 8+ years of experience in designing and de
 
 ---
 
+## Currently
+Building products.
+- **Building** [@FramioCam](https://framiocam.com) - Capture, edit, and manage screenshots and screen recordings locally in Chrome — no cloud upload required.
+- **Building** [@EmailFunnelAI](https://emailfunnel.ai/) - Build an entire email automation from one prompt.
+- **Building** [@FlowRecorder](https://flowrecorder.com/) - Flow Recorder lets you capture live user journeys and turn them into automated demos, onboarding flows, and interactive documentation - without code.
+
+---
+
 ## 🏆 Notable Projects
 
 ### 📸 [SnapFlow Studio](https://chromewebstore.google.com/detail/snapflow-studio/ipcchiiobkkkdimhfdjeoohlnjgjkoji)
